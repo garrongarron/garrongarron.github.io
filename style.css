@@ -1,0 +1,36 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    text-align: center;
+    background-color: #181818;
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+    line-height: 200px;
+    font-size: 100px;
+    margin-bottom: 1em;
+}
+body > a{
+    color: white;
+    background-color: #1cd11c;
+    padding: 1em;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px #00ff00;
+    font-weight: bolder;
+    text-shadow: 0px 0px 5px darkblue;
+    
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    background-color: red;
+    padding: 1em;
+    width: 100%;
+}
